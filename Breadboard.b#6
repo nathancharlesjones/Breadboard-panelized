@@ -255,7 +255,7 @@
   SIDE</text>
 <text x="11.43" y="40.64" size="1.27" layer="25">Max current through any trace (based on width): 3.5A (temperature rise: 35 deg C)</text>
 <text x="11.43" y="6.35" size="1.27" layer="25">Max voltage between any two traces (based on clearance): 100V (70 V_AC RMS)</text>
-<text x="72.39" y="22.86" size="1.27" layer="26" rot="MR0">For more information: nathancharlesjones@gmail.com</text>
+<text x="83.82" y="22.86" size="1.27" layer="26" rot="MR0">For more information: https://github.com/nathancharlesjones/Embedded-for-Everyone</text>
 <text x="78.74" y="21.59" size="1.27" layer="25">TRACES
   THIS
   SIDE</text>
@@ -277,7 +277,7 @@
   SIDE</text>
 <text x="11.43" y="88.9" size="1.27" layer="25">Max current through any trace (based on width): 3.5A (temperature rise: 35 deg C)</text>
 <text x="11.43" y="54.61" size="1.27" layer="25">Max voltage between any two traces (based on clearance): 100V (70 V_AC RMS)</text>
-<text x="72.39" y="71.12" size="1.27" layer="26" rot="MR0">For more information: nathancharlesjones@gmail.com</text>
+<text x="83.82" y="71.12" size="1.27" layer="26" rot="MR0">For more information: https://github.com/nathancharlesjones/Embedded-for-Everyone</text>
 <text x="78.74" y="69.85" size="1.27" layer="25">TRACES
   THIS
   SIDE</text>
